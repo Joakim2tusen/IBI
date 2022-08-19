@@ -8,7 +8,7 @@
             <div class="row" slot="content-header" slot-scope="{closeMenu}">
                 <div class="col-6 collapse-brand">
                     <a href="../index.html">
-                        <img src="img/brand/blue.png">
+                        <img src="img/brand/green.png">
                     </a>
                 </div>
                 <div class="col-6 collapse-close">
@@ -17,7 +17,17 @@
             </div>
 
             <ul class="navbar-nav navbar-nav-hover align-items-lg-center">
-                <li class="nav-item dropdown">
+                <!-- <li>
+                    <a href="/#/about" class="nav-link">
+                        <span class="nav-link-inner--text">About Us</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="/#/about" class="nav-link">
+                        <span class="nav-link-inner--text">Contact</span>
+                    </a>
+                </li> -->
+                <!-- <li class="nav-item dropdown">
                     <a href="#" class="nav-link" data-toggle="dropdown" role="button">
                         <i class="ni ni-ui-04 d-lg-none"></i>
                         <span class="nav-link-inner--text">Components</span>
@@ -48,8 +58,8 @@
                             </a>
                         </div>
                     </div>
-                </li>
-                <li class="nav-item dropdown">
+                </li> -->
+                <!-- <li class="nav-item dropdown">
                     <a href="#" class="nav-link" data-toggle="dropdown" role="button">
                         <i class="ni ni-collection d-lg-none"></i>
                         <span class="nav-link-inner--text">Examples</span>
@@ -60,10 +70,20 @@
                         <router-link to="/login" class="dropdown-item">Login</router-link>
                         <router-link to="/register" class="dropdown-item">Register</router-link>
                     </div>
-                </li>
+                </li> -->
             </ul>
             <ul class="navbar-nav align-items-lg-center ml-lg-auto">
-                <li class="nav-item">
+                <li>
+                    <a href="/#/about" class="nav-link">
+                        <span class="nav-link-inner--text">About Us</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="/#/about" class="nav-link">
+                        <span class="nav-link-inner--text">Contact</span>
+                    </a>
+                </li>
+                <!-- <li class="nav-item">
                     <a class="nav-link nav-link-icon" href="https://www.facebook.com/creativetim" target="_blank"
                        data-toggle="tooltip" title="Like us on Facebook">
                         <i class="fa fa-facebook-square"></i>
@@ -90,16 +110,16 @@
                         <i class="fa fa-github"></i>
                         <span class="nav-link-inner--text d-lg-none">Github</span>
                     </a>
-                </li>
-                <li class="nav-item d-none d-lg-block ml-lg-4">
-                    <a href="https://www.creative-tim.com/product/vue-argon-design-system" target="_blank"
+                </li> -->
+                <!-- <li class="nav-item d-none d-lg-block ml-lg-4">
+                    <a href="https://m.facebook.com/groups/indoorbonsai/" target="_blank"
                        class="btn btn-neutral btn-icon">
                 <span class="btn-inner--icon">
-                  <i class="fa fa-cloud-download mr-2"></i>
+                  <i class="fa fa-facebook-square mr-2"></i>
                 </span>
-                        <span class="nav-link-inner--text">Download</span>
+                        <span class="nav-link-inner--text">Facebook</span>
                     </a>
-                </li>
+                </li> -->
             </ul>
         </base-nav>
     </header>

@@ -20,25 +20,52 @@
                         <img src="img/brand/white.png" style="width: 200px;" class="img-fluid">
                         <p class="lead text-white mt-4 mb-5">Indoor Bonsai International. Europe's largest bonsai tree provider.</p>
                         <div class="btn-wrapper">
-                            <base-button tag="a"
-                                         href="https://demos.creative-tim.com/vue-argon-design-system/documentation"
+                            <a href="/#/about" class="btn btn-success btn-icon">
+                                <span class="btn-inner--icon">
+                                    <i class="fa fa-search mr-2"></i>
+                                </span>
+                                <span class="nav-link-inner--text">Learn more</span>
+                            </a>
+                            <a href="https://m.facebook.com/groups/indoorbonsai/" class="btn btn-neutral btn-icon" target="_blank">
+                                <span class="btn-inner--icon">
+                                    <i class="fa fa-facebook-square mr-2"></i>
+                                </span>
+                                <span class="nav-link-inner--text">Facebook</span>
+                            </a>
+                            <!-- <base-button tag="a"
+                                         href="/#/about"
                                          class="mb-3 mb-sm-0"
-                                         type="info"
-                                         icon="fa fa-code">
-                                Components
+                                         type="success"
+                                         icon="fa fa-search">
+                                Learn more
                             </base-button>
                             <base-button tag="a"
+                                         href="https://m.facebook.com/groups/indoorbonsai/"
+                                         class="mb-3 mb-sm-0"
+                                         type="neutral"
+                                         icon="fa fa-facebook-square"
+                                         target="_blank">
+                                Facebook
+                            </base-button> -->
+                            <!-- <base-button tag="a"
+                                         href="https://demos.creative-tim.com/vue-argon-design-system/documentation"
+                                         class="mb-3 mb-sm-0"
+                                         type="success"
+                                         icon="fa fa-code">
+                                Components
+                            </base-button> -->
+                            <!-- <base-button tag="a"
                                          href="https://www.creative-tim.com/product/vue-argon-design-system"
                                          class="mb-3 mb-sm-0"
                                          type="white"
                                          icon="ni ni-cloud-download-95">
-                                Download Vue
-                            </base-button>
+                                Learn more!
+                            </base-button> -->
                         </div>
                     </div>
                 </div>
-                <div class="row align-items-center justify-content-around stars-and-coded">
-                    <div class="col-sm-4">
+                <div class="row align-items-center justify-content-around stars-and-coded mb-5">
+                    <!-- <div class="col-sm-4">
                         <span class="text-white alpha-7 ml-3">Star us on</span>
                         <a href="https://github.com/creativetimofficial/argon-design-system" target="_blank" title="Support us on Github">
                             <img src="img/brand/github-white-slim.png" style="height: 22px; margin-top: -3px">
@@ -49,7 +76,7 @@
                         <a href="https://www.creative-tim.com" target="_blank" title="Creative Tim - Premium Bootstrap Themes and Templates">
                             <img src="img/brand/creativetim-white-slim.png" class="ml-3" style="height: 30px;">
                         </a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
