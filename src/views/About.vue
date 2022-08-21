@@ -27,7 +27,7 @@
                                                             Indoor Bonsai International (IBI) is a bonsai group solely focused on indoor bonsai, the species we use, the technics we implement, and all equipment etc that is needed to be truly successful.<br><br>
 
                                                             Find us on&nbsp
-                                                            <a href="https://m.facebook.com/groups/indoorbonsai/" class="btn btn-neutral btn-icon">
+                                                            <a href="https://m.facebook.com/groups/indoorbonsai/" class="btn btn-neutral btn-icon" target="_blank">
                                                                 <span class="btn-inner--icon">
                                                                     <i class="fa fa-facebook-square mr-2"></i>
                                                                 </span>
