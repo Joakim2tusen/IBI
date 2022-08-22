@@ -8,7 +8,7 @@
             <div class="row" slot="content-header" slot-scope="{closeMenu}">
                 <div class="col-6 collapse-brand">
                     <a href="../index.html">
-                        <img src="img/brand/green.png">
+                        <img src="img/brand/darkgreen.png">
                     </a>
                 </div>
                 <div class="col-6 collapse-close">
