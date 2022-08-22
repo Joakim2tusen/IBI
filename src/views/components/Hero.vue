@@ -18,7 +18,7 @@
                 <div class="row justify-content-center align-items-center">
                     <div class="col-lg-7 text-center pt-lg">
                         <img src="img/brand/white.png" style="width: 200px;" class="img-fluid">
-                        <p class="lead text-white mt-4 mb-5">Indoor Bonsai International. Europe's largest bonsai tree provider.</p>
+                        <p class="lead text-white mt-4 mb-5">Indoor Bonsai International. Exotic bonsai breeds grown professionally indoors.</p>
                         <div class="btn-wrapper">
                             <a href="/#/about" class="btn btn-success btn-icon">
                                 <span class="btn-inner--icon">
@@ -26,7 +26,7 @@
                                 </span>
                                 <span class="nav-link-inner--text">Learn more</span>
                             </a>
-                            <a href="https://m.facebook.com/groups/indoorbonsai/" class="btn btn-neutral btn-icon" target="_blank">
+                            <a href="https://www.facebook.com/Indoorbonsaiinternational/" class="btn btn-neutral btn-icon" target="_blank">
                                 <span class="btn-inner--icon">
                                     <i class="fa fa-facebook-square mr-2"></i>
                                 </span>

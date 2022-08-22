@@ -4,6 +4,7 @@
         <div class="position-relative">
             <!-- shape Hero -->
             <section class="section-shaped my-0">
+                <!-- <div class="shape shape-skew hero-image"></div> -->
                 <div class="shape shape-style-1 shape-default shape-skew">
                     <span></span>
                     <span></span>
@@ -20,19 +21,19 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <h1 class="display-3  text-white">Indoor Bonsai International
-                                    <span>Bonsai shipping in Europe.</span>
+                                    <span>Exotic bonsai breeds in Europe.</span>
                                 </h1>
-                                <p class="lead  text-white">Welcome to Indoor Bonsai International!<br><br>
+                                <p class="lead text-white">Welcome to Indoor Bonsai International!<br><br>
 
-                                                            Indoor Bonsai International (IBI) is a bonsai group solely focused on indoor bonsai, the species we use, the technics we implement, and all equipment etc that is needed to be truly successful.<br><br>
+                                                            Indoor Bonsai International focuses on the art of indoor bonsai, the species to use, the techniques to implement and all the equipment that is needed to be truly successful.<br><br>
 
-                                                            Find us on&nbsp
-                                                            <a href="https://m.facebook.com/groups/indoorbonsai/" class="btn btn-neutral btn-icon" target="_blank">
+                                                            Find us on&nbsp;
+                                                            <a href="https://www.facebook.com/Indoorbonsaiinternational/" class="btn btn-neutral btn-icon" target="_blank">
                                                                 <span class="btn-inner--icon">
                                                                     <i class="fa fa-facebook-square mr-2"></i>
                                                                 </span>
                                                                 <span class="nav-link-inner--text">Facebook</span>
-                                                            </a>
+                                                            </a> !
                                                             
                                 </p>
                                 <!-- <div class="btn-wrapper">
@@ -57,13 +58,13 @@
                                     <icon name="fa fa-pagelines" type="success" rounded class="mb-4">
                                     </icon>
                                     <h6 class="text-success text-uppercase">Yamadori Miyamoto</h6>
-                                    <p class="description mt-3">Bonsai grower</p>
+                                    <!-- <p class="description mt-3">Gardener</p> -->
                                     <div>
                                         <badge type="success" rounded>bonsai grower</badge>
                                         <badge type="success" rounded>owner</badge>
                                         <badge type="success" rounded>manager</badge>
                                     </div>
-                                    <base-button tag="a" href="https://m.facebook.com/groups/indoorbonsai/" type="success" class="mt-4" target="_blank">
+                                    <base-button tag="a" href="https://www.facebook.com/Indoorbonsaiinternational/" type="success" class="mt-4" target="_blank">
                                         Learn more
                                     </base-button>
                                 </card>
@@ -73,7 +74,7 @@
                                     <icon name="fa fa-code" type="info" rounded class="mb-4">
                                     </icon>
                                     <h6 class="text-info text-uppercase">Joakim Kokocha</h6>
-                                    <p class="description mt-3">Developer</p>
+                                    <!-- <p class="description mt-3">Developer</p> -->
                                     <div>
                                         <badge type="info" rounded>webmaster</badge>
                                         <badge type="info" rounded>engineer</badge>

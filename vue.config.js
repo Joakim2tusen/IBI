@@ -10,11 +10,11 @@ module.exports = {
     ]
   },
   pwa: {
-    name: 'Vue Argon Design',
-    themeColor: '#172b4d',
-    msTileColor: '#172b4d',
+    name: 'Indoor Bonsai International',
+    themeColor: '#244a2b',
+    msTileColor: '#244a2b',
     appleMobileWebAppCapable: 'yes',
-    appleMobileWebAppStatusBarStyle: '#172b4d'
+    appleMobileWebAppStatusBarStyle: '#244a2b'
   },
   css: {
     // Enable CSS source maps.

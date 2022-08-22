@@ -52,13 +52,13 @@
                 <div class="col-md-6">
                     <div class="copyright">
                         &copy; {{year}}
-                        <a href="https://m.facebook.com/groups/indoorbonsai/" target="_blank" rel="noopener">Yamadori Miyamoto</a> & <a href="https://joakim2tusen.github.io/Portfolio/" target="_blank" rel="noopener">Joakim Kokocha</a>
+                        <a href="https://www.facebook.com/Indoorbonsaiinternational/" target="_blank" rel="noopener">Yamadori Miyamoto</a> & <a href="https://joakim2tusen.github.io/Portfolio/" target="_blank" rel="noopener">Joakim Kokocha</a>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <ul class="nav nav-footer justify-content-end">
                         <li class="nav-item">
-                            <a href="https://m.facebook.com/groups/indoorbonsai/" class="nav-link" target="_blank">IBI</a>
+                            <a href="https://www.facebook.com/Indoorbonsaiinternational/" class="nav-link" target="_blank">IBI</a>
                         </li>
                         <li class="nav-item">
                             <a href="/#/about" class="nav-link">About
