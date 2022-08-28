@@ -20,7 +20,7 @@
                         <img src="img/brand/white.png" style="width: 200px;" class="img-fluid">
                         <p class="lead text-white mt-4 mb-5">Indoor Bonsai International. Exotic bonsai breeds grown professionally indoors.</p>
                         <div class="btn-wrapper">
-                            <a href="/#/about" class="btn btn-success btn-icon">
+                            <a href="./#/about" class="btn btn-success btn-icon">
                                 <span class="btn-inner--icon">
                                     <i class="fa fa-search mr-2"></i>
                                 </span>

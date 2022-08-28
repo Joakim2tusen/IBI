@@ -20,7 +20,7 @@
                     <div class="col px-0">
                         <div class="row">
                             <div class="col-lg-6">
-                                <h1 class="display-3  text-white">Indoor Bonsai International
+                                <h1 class="display-3 text-white">Indoor Bonsai International
                                     <span>Exotic bonsai breeds in Europe.</span>
                                 </h1>
                                 <p class="lead text-white">Welcome to Indoor Bonsai International!<br><br>

@@ -74,12 +74,12 @@
             </ul>
             <ul class="navbar-nav align-items-lg-center ml-lg-auto">
                 <li>
-                    <a href="/#/about" class="nav-link">
+                    <a href="./#/about" class="nav-link">
                         <span class="nav-link-inner--text">About Us</span>
                     </a>
                 </li>
                 <li>
-                    <a href="/#/about" class="nav-link">
+                    <a href="./#/about" class="nav-link">
                         <span class="nav-link-inner--text">Contact</span>
                     </a>
                 </li>

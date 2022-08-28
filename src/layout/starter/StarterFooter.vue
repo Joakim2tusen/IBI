@@ -61,11 +61,11 @@
                             <a href="https://www.facebook.com/Indoorbonsaiinternational/" class="nav-link" target="_blank">IBI</a>
                         </li>
                         <li class="nav-item">
-                            <a href="/#/about" class="nav-link">About
+                            <a href="./#/about" class="nav-link">About
                                 Us</a>
                         </li>
                         <li class="nav-item">
-                            <a href="/#/about" class="nav-link">Contact</a>
+                            <a href="./#/about" class="nav-link">Contact</a>
                         </li>
                         <li class="nav-item">
                             <a href="https://github.com/Joakim2tusen/IBI/blob/master/LICENSE"
