@@ -67,7 +67,7 @@
                             <router-link to="/about" class="nav-link">Contact</router-link>
                         </li>
                         <li class="nav-item">
-                            <a href="https://github.com/Joakim2tusen/IBI/blob/master/LICENSE"
+                            <a href="https://github.com/Joakim2tusen/IBI/blob/main/LICENSE"
                                class="nav-link" target="_blank">MIT License</a>
                         </li>
                     </ul>
