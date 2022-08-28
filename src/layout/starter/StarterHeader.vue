@@ -7,9 +7,9 @@
 
             <div class="row" slot="content-header" slot-scope="{closeMenu}">
                 <div class="col-6 collapse-brand">
-                    <a href="../index.html">
+                    <router-link slot="brand" class="navbar-brand mr-lg-3" to="/">
                         <img src="img/brand/darkgreen.png">
-                    </a>
+                    </router-link>
                 </div>
                 <div class="col-6 collapse-close">
                     <close-button @click="closeMenu"></close-button>
@@ -74,14 +74,14 @@
             </ul>
             <ul class="navbar-nav align-items-lg-center ml-lg-auto">
                 <li>
-                    <a href="#/about" class="nav-link">
+                    <router-link to="/about" class="nav-link">
                         <span class="nav-link-inner--text">About Us</span>
-                    </a>
+                    </router-link>
                 </li>
                 <li>
-                    <a href="#/about" class="nav-link">
+                    <router-link to="/about" class="nav-link">
                         <span class="nav-link-inner--text">Contact</span>
-                    </a>
+                    </router-link>
                 </li>
                 <!-- <li class="nav-item">
                     <a class="nav-link nav-link-icon" href="https://www.facebook.com/creativetim" target="_blank"
